@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+body {
+	background-color: #1e2124;
+	font-family: "Helvetica", "Lucida Console", "Palatino Linotype";
+	font-style: italic;
+}
+
+header {
+	color: #B0E0E6;
+	background-color: #708090;	
+}
+
+h1 {
+	text-align: center;	
+	font: 2.5em/1.0em Palatino Linotype;
+}
+
+nav > ul {
+	background-color: #708090;
+	width: 55px;
+	font: bold 1.1em/1.0em Times New Roman;
+	list-style-type: none;
+	padding-left: 5px;
+}
+
+section {
+	color: #FFFFF0;
+	font: 1.1em/1.0em Helvetica;
+}
+
+footer {
+	color: #B0E0E6;
+	background-color: #708090;
+	text-align: center;
+	font: italic 1.0em/0.7em Times New Roman;
+}
